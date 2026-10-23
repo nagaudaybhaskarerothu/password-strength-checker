@@ -133,10 +133,6 @@ export default function App() {
             {hasSpecial ? "✓" : "○"} Special character (!@#$)
           </p>
         </div>
-
-        <p className="footer-text">
-          Your password is checked locally in your browser.
-        </p>
       </div>
     </div>
   );
